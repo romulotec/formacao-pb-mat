@@ -1,0 +1,35 @@
+702.634.920-12;Vanessa Martins;Porto Velho;(vanessa.martins@email.com)--69 43210-9876
+813.472.930-23;Paula Teixeira;Macapá;(paula.teixeira@email.com)--96 32109-8765
+924.098.456-34;Fernando Lopes;Rio Branco;(fernando.lopes@email.com)--68 21098-7654
+035.792.847-45;Ricardo Santos;São Paulo;(ricardo.santos@email.com)--11 10987-6543
+146.813.258-56;Carla Rocha;Curitiba;(carla.rocha@email.com)--41 98765-4321
+257.924.369-67;Felipe Cardoso;Rio de Janeiro;(felipe.cardoso@email.com)--21 87654-3210
+368.135.490-78;Sabrina Almeida;Salvador;(sabrina.almeida@email.com)--71 76543-2109
+479.246.951-89;Rogério Silva;Manaus;(rogerio.silva@email.com)--92 65432-1098
+580.357.062-90;Renata Lima;Brasília;(renata.lima@email.com)--61 54321-0987
+691.468.173-01;Gabriel Sousa;Fortaleza;(gabriel.sousa@email.com)--85 43210-9876
+702.579.284-12;Amanda Ribeiro;Recife;(amanda.ribeiro@email.com)--81 32109-8765
+813.690.395-23;Júlio Mendes;Vitória;(julio.mendes@email.com)--27 21098-7654
+924.701.406-34;Bianca Gomes;Natal;(bianca.gomes@email.com)--84 10987-6543
+035.812.517-45;Vinícius Rodrigues;Maceió;(vinicius.rodrigues@email.com)--82 98765-4321
+146.923.628-56;Eliana Carvalho;Belém;(eliana.carvalho@email.com)--91 87654-3210
+257.034.739-67;Alex Santos;Porto Alegre;(alex.santos@email.com)--51 76543-2109
+368.145.850-78;Beatriz Barros;João Pessoa;(beatriz.barros@email.com)--83 65432-1098
+479.256.961-89;Douglas Azevedo;Boa Vista;(douglas.azevedo@email.com)--95 54321-0987
+580.367.072-90;Natália Ramos;Campo Grande;(natalia.ramos@email.com)--67 43210-9876
+691.478.183-01;Henrique Souza;São Luís;(henrique.souza@email.com)--98 32109-8765
+702.589.294-12;Luciana Costa;Aracaju;(luciana.costa@email.com)--79 21098-7654
+813.600.405-23;Carlos Moreira;Palmas;(carlos.moreira@email.com)--63 10987-6543
+924.711.516-34;Tatiane Oliveira;Florianópolis;(tatiane.oliveira@email.com)--48 98765-4321
+035.822.627-45;Eduardo Almeida;Rio de Janeiro;(eduardo.almeida@email.com)--21 87654-3210
+146.933.738-56;Mônica Ferreira;São Paulo;(monica.ferreira@email.com)--11 76543-2109
+257.045.849-67;Sérgio Batista;Porto Velho;(sergio.batista@email.com)--69 65432-1098
+368.156.960-78;Fábio Medeiros;Macapá;(fabio.medeiros@email.com)--96 54321-0987
+479.267.071-89;Cristiane Pinto;Rio Branco;(cristiane.pinto@email.com)--68 43210-9876
+580.378.182-90;Mário Farias;Curitiba;(mario.farias@email.com)--41 32109-8765
+691.489.293-01;Luana Martins;Fortaleza;(luana.martins@email.com)--85 21098-7654
+479.136.275-89;Paulo Rocha;Florianópolis;(paulo.rocha@email.com)--48 76543-2109
+580.951.234-90;Sandra Menezes;Maceió;(sandra.menezes@email.com)--82 65432-1098
+691.374.582-01;Leonardo Cardoso;Cuiabá;(leonardo.cardoso@email.com)--65 54321-0987
+
+

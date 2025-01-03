@@ -1,0 +1,31 @@
+cpf;nome_sobrenome;cidade_residencia;email_telefone
+205.397.864-40;Marina Santos;São Paulo;(marina.santos@email.com)--11 91234-5678
+408.796.215-28;Felipe Oliveira;Rio de Janeiro;(felipe.oliveira@email.com)--21 98765-4321
+609.124.837-59;Lucas Almeida;Belo Horizonte;(lucas.almeida@email.com)--31 87654-3210
+712.543.968-81;Isabela Lima;Brasília;(isabela.lima@email.com)--61 76543-2109
+813.672.590-92;Pedro Fernandes;Porto Alegre;(pedro.fernandes@email.com)--51 65432-1098
+924.385.706-13;Larissa Costa;Recife;(larissa.costa@email.com)--81 54321-0987
+035.741.869-24;Gustavo Pereira;Salvador;(gustavo.pereira@email.com)--71 43210-9876
+146.902.458-35;Camila Silva;Fortaleza;(camila.silva@email.com)--85 32109-8765
+257.036.149-46;Rafaela Oliveira;Manaus;(rafaela.oliveira@email.com)--92 21098-7654
+368.541.920-57;Thiago Souza;Curitiba;(thiago.souza@email.com)--41 10987-6543
+479.203.681-68;Bruno Santos;Goiânia;(bruno.santos@email.com)--62 98765-4321
+580.914.372-79;Mariana Fernandes;Belém;(mariana.fernandes@email.com)--91 87654-3210
+691.378.540-90;Juliana Lima;São Luís;(juliana.lima@email.com)--98 76543-2109
+702.594.813-01;Carlos Fernandes;Campo Grande;(carlos.fernandes@email.com)--67 65432-1098
+813.467.925-12;Ana Paula Oliveira;Vitória;(ana.oliveira@email.com)--27 54321-0987
+924.058.136-23;Renato Pereira;Teresina;(renato.pereira@email.com)--86 43210-9876
+035.761.947-34;André Silva;Natal;(andre.silva@email.com)--84 32109-8765
+146.802.358-45;Fernanda Souza;Aracaju;(fernanda.souza@email.com)--79 21098-7654
+257.914.639-56;Diego Almeida;Boa Vista;(diego.almeida@email.com)--95 10987-6543
+368.246.710-67;Camila Oliveira;Palmas;(camila.oliveira@email.com)--63 98765-4321
+479.063.825-78;Lucas Santos;Porto Alegre;(lucas.santos@email.com)--51 87654-3210
+580.924.037-89;Aline Ferreira;João Pessoa;(aline.ferreira@email.com)--83 76543-2109
+691.387.258-90;Marcelo Costa;São Paulo;(marcelo.costa@email.com)--11 65432-1098
+702.504.819-01;Tatiane Lima;Rio de Janeiro;(tatiane.lima@email.com)--21 54321-0987
+813.476.920-12;Roberto Oliveira;Belo Horizonte;(roberto.oliveira@email.com)--31 43210-9876
+924.085.136-23;Patrícia Pereira;Brasília;(patricia.pereira@email.com)--61 32109-8765
+035.761.947-34;André Silva;Salvador;(andre.silva@email.com)--71 21098-7654
+146.802.358-45;Fernanda Souza;Fortaleza;(fernanda.souza@email.com)--85 10987-6543
+257.914.639-56;Diego Almeida;Manaus;(diego.almeida@email.com)--92 98765-4321
+368.246.710-67;Camila Oliveira;Curitiba;(camila.oliveira@email.com)--41 87654-3210
